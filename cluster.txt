@@ -1,0 +1,5 @@
+kubeadm init --apiserver-advertise-address=192.168.0.104 --pod-network-cidr=10.244.0.0/16
+
+
+https://raw.githubusercontent.com/coreos/flannel/62e44c867a2846fefb68bd5f178daf4da3095ccb/Documentation/kube-flannel.yml
+
